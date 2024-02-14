@@ -5,7 +5,7 @@ import google.generativeai as GenerativeAI
 from IPython.display import Markdown
 
 # Configure Google Generative AI
-GOOGLE_API_KEY = "YOUR_API_KEY_HERE"
+GOOGLE_API_KEY = "YOUR_API_KEY_HERE.."
 GenerativeAI.configure(api_key=GOOGLE_API_KEY)
 
 # List available models
